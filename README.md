@@ -9,6 +9,6 @@ A multi-page Power BI dashboard analyzing 55K+ hospital records across patient d
 
 ![Dashboard](Dashboard.png)
 ![Patients](Patients.png)
-![Hospital Operations](Hospital_Operations.png)
-![Finance](Finance_Insurance.png)
-![Medical Insight](Medical_Insight.png)
+![Hospital Operations](HospitalOperations.png)
+![Finance](FinanceInsurance.png)
+![Medical Insight](MedicalInsight.png)
