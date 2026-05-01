@@ -27,7 +27,7 @@ patient demographics, operations, finance, and medical insights.
 *Patient breakdown by age, gender, blood type and medical condition.*
 
 ### Hospital Operations
-![Hospital Operations](Hospital%20Operation.png)
+![Hospital Operations](Hospital%20Operations.png)
 *Length of stay, top doctors, admission types and hospital turnover.*
 
 ### Finance & Insurance
@@ -40,5 +40,6 @@ patient demographics, operations, finance, and medical insights.
 
 ---
 
-**Daniel Agbaso** — Data Analyst | Power BI  
-[LinkedIn](https://linkedin.com/in/danielchigozirim) • [GitHub](https://github.com/agbaso-BI)
+**Daniel Agbaso** — Data Analyst | Power BI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielchigozirim) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agbaso-BI)
