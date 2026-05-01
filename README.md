@@ -8,6 +8,9 @@ patient demographics, operations, finance, and medical insights.
 ## 🛠️ Tools Used
 - Power BI Desktop
 
+## 📂 Data Source
+Dataset obtained from [Kaggle](https://www.kaggle.com)
+
 ## 💡 Key Insights
 - Diabetes is the biggest cost driver at $236.49M in billing
 - Billing peaked in 2021–2022 and dropped sharply in 2024
